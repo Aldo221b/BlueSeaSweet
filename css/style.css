@@ -384,6 +384,22 @@ html {
         }
      }
 
+/*PAGINA DE CONTACTENOS*/
+     .main__contactenos__index{
+        border: 1px solid var(--color-negro-mate);
+        padding: 20px 10px;
+        display: flex;
+        
+     }
+
+     .contactenos__descripcion{
+
+     }
+     .contactenos__formulario{
+
+     }
+
+
 
 
 /*Footer*/
